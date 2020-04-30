@@ -63,7 +63,7 @@
     "filesaver.js-npm": "^1.0.1",
     "font-awesome": "^4.6.3",
     "imports-loader": "^0.6.5",
-    "jquery": "~3.1.1",
+    "jquery": "~3.5.0",
     "js-yaml": "^3.7.0",
     "lodash.flow": "^3.3.0",
     "moment": "^2.16.0",
